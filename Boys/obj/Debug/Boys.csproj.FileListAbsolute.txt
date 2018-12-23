@@ -1,0 +1,18 @@
+c:\users\gr00t13\documents\visual studio 2017\Projects\Boys\Boys\bin\Debug\Boys.exe.config
+c:\users\gr00t13\documents\visual studio 2017\Projects\Boys\Boys\bin\Debug\Boys.exe
+c:\users\gr00t13\documents\visual studio 2017\Projects\Boys\Boys\bin\Debug\Boys.pdb
+c:\users\gr00t13\documents\visual studio 2017\Projects\Boys\Boys\obj\Debug\Boys.csprojResolveAssemblyReference.cache
+c:\users\gr00t13\documents\visual studio 2017\Projects\Boys\Boys\obj\Debug\Boys.exe
+c:\users\gr00t13\documents\visual studio 2017\Projects\Boys\Boys\obj\Debug\Boys.pdb
+C:\Users\GR00T13\Downloads\Boys (concluido) + Banco\Boys\bin\Debug\Boys.exe.config
+C:\Users\GR00T13\Downloads\Boys (concluido) + Banco\Boys\bin\Debug\Boys.exe
+C:\Users\GR00T13\Downloads\Boys (concluido) + Banco\Boys\bin\Debug\Boys.pdb
+C:\Users\GR00T13\Downloads\Boys (concluido) + Banco\Boys\obj\Debug\Boys.csprojResolveAssemblyReference.cache
+C:\Users\GR00T13\Downloads\Boys (concluido) + Banco\Boys\obj\Debug\Boys.exe
+C:\Users\GR00T13\Downloads\Boys (concluido) + Banco\Boys\obj\Debug\Boys.pdb
+C:\Users\GR00T13\Pictures\Boys (concluido) + Bancos - normal\Boys\obj\Debug\Boys.csprojResolveAssemblyReference.cache
+C:\Users\GR00T13\Pictures\Boys (concluido) + Bancos - normal\Boys\obj\Debug\Boys.exe
+C:\Users\GR00T13\Pictures\Boys (concluido) + Bancos - normal\Boys\obj\Debug\Boys.pdb
+C:\Users\GR00T13\Pictures\Boys (concluido) + Bancos - normal\Boys\bin\Debug\Boys.exe.config
+C:\Users\GR00T13\Pictures\Boys (concluido) + Bancos - normal\Boys\bin\Debug\Boys.exe
+C:\Users\GR00T13\Pictures\Boys (concluido) + Bancos - normal\Boys\bin\Debug\Boys.pdb
